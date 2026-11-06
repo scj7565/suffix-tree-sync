@@ -1,0 +1,2 @@
+Copied unmodified from https://github.com/snowflakedb/ArcticInference csrc/suffix_decoding/ (commit aca5d9a, 2026-09-08). Apache-2.0, see LICENSE.
+Exception: suffix_tree.h/.cc have one added function, content_digest() (marked [suffix-tree-sync 추가]), used by tree_bench --check.
